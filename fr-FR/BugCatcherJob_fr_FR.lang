@@ -1,36 +1,70 @@
 language.code=fr-FR
 language=Français
-//TODO Translate [Reference] 'You should buy a bug net!'
+-//TODO Translate [Reference] 'You should buy a bug net!'
 staxel.village.dialogue.job.BugCatcher.line:10000100=
-//TODO Translate [Reference] 'You'll be able to catch all sorts of bugs in the wilderness!'
+-//TODO Translate [Reference] 'You'll be able to catch all sorts of bugs in the wilderness!'
 staxel.village.dialogue.job.BugCatcher.line:10000200=
-//TODO Translate [Reference] 'Some of them can be very useful!'
+-//TODO Translate [Reference] 'Some of them can be very useful!'
 staxel.village.dialogue.job.BugCatcher.line:10000300=
-//TODO Translate [Reference] 'If you wanna find beetles, I'd suggest looking around trees.'
+-//TODO Translate [Reference] 'If you wanna find beetles, I'd suggest looking around trees.'
 staxel.village.dialogue.job.BugCatcher.line:10000400=
-//TODO Translate [Reference] 'They like to hang around on the trunks!'
+-//TODO Translate [Reference] 'They like to hang around on the trunks!'
 staxel.village.dialogue.job.BugCatcher.line:10000500=
-//TODO Translate [Reference] 'Sometimes you'll come across bees near flowers.'
+-//TODO Translate [Reference] 'Sometimes you'll come across bees near flowers.'
 staxel.village.dialogue.job.BugCatcher.line:10000600=
-//TODO Translate [Reference] 'If you're lucky, you might even find a queen!'
+-//TODO Translate [Reference] 'If you're lucky, you might even find a queen!'
 staxel.village.dialogue.job.BugCatcher.line:10000700=
-//TODO Translate [Reference] 'If you like bug catching, I'd suggest investing in a beehive.'
+-//TODO Translate [Reference] 'If you like bug catching, I'd suggest investing in a beehive.'
 staxel.village.dialogue.job.BugCatcher.line:10000800=
-//TODO Translate [Reference] 'When you put in a queen bee, the swarm will start to gather there.'
+-//TODO Translate [Reference] 'When you put in a queen bee, the swarm will start to gather there.'
 staxel.village.dialogue.job.BugCatcher.line:10000900=
-//TODO Translate [Reference] 'Eventually it'll start producing honey!'
+-//TODO Translate [Reference] 'Eventually it'll start producing honey!'
 staxel.village.dialogue.job.BugCatcher.line:10001000=
-//TODO Translate [Reference] 'Rhinoceros beetles are the ultimate beetle.'
+-//TODO Translate [Reference] 'Rhinoceros beetles are the ultimate beetle.'
 staxel.village.dialogue.job.BugCatcher.line:10001100=
-//TODO Translate [Reference] 'They're so magnificent there's no contest!'
+-//TODO Translate [Reference] 'They're so magnificent there's no contest!'
 staxel.village.dialogue.job.BugCatcher.line:10001200=
-//TODO Translate [Reference] 'I love hanging out in the forests at night.'
+-//TODO Translate [Reference] 'I love hanging out in the forests at night.'
 staxel.village.dialogue.job.BugCatcher.line:10001300=
-//TODO Translate [Reference] 'Sometimes you might catch a swarm of fireflies.'
+-//TODO Translate [Reference] 'Sometimes you might catch a swarm of fireflies.'
 staxel.village.dialogue.job.BugCatcher.line:10001400=
-//TODO Translate [Reference] 'It's quite something!'
+-//TODO Translate [Reference] 'It's quite something!'
 staxel.village.dialogue.job.BugCatcher.line:10001500=
-//TODO Translate [Reference] 'Bug collecting can be a pretty good source of income.'
+-//TODO Translate [Reference] 'Bug collecting can be a pretty good source of income.'
 staxel.village.dialogue.job.BugCatcher.line:10001600=
-//TODO Translate [Reference] 'Some people are really into getting hold of rare insects!'
+-//TODO Translate [Reference] 'Some people are really into getting hold of rare insects!'
+staxel.village.dialogue.job.BugCatcher.line:10001700=
++//TODO Translate [Reference] 'Tu devrais t'acheter un filet à insectes!'
+staxel.village.dialogue.job.BugCatcher.line:10000100=
++//TODO Translate [Reference] 'Tu pourras attraper toutes sortes d'insectes dans la nature !'
+staxel.village.dialogue.job.BugCatcher.line:10000200=
++//TODO Translate [Reference] 'Certain peuvent être super utiles !'
+staxel.village.dialogue.job.BugCatcher.line:10000300=
++//TODO Translate [Reference] 'Si tu cherche des coléoptères, je te suggère de regarder autour des arbres.'
+staxel.village.dialogue.job.BugCatcher.line:10000400=
++//TODO Translate [Reference] 'Ils adorent se promener sur les troncs !'
+staxel.village.dialogue.job.BugCatcher.line:10000500=
++//TODO Translate [Reference] 'Parfois tu verra des abeilles près des fleurs.'
+staxel.village.dialogue.job.BugCatcher.line:10000600=
++//TODO Translate [Reference] 'Avec un peu de chance tu verra peut-être même la reine !'
+staxel.village.dialogue.job.BugCatcher.line:10000700=
++//TODO Translate [Reference] 'Si tu adore la chasse aux insectes, je te suggère d'investir dans une ruche.'
+staxel.village.dialogue.job.BugCatcher.line:10000800=
++//TODO Translate [Reference] 'Si tu y met une reine, l'essaim commencera à s'y rassembler.'
+staxel.village.dialogue.job.BugCatcher.line:10000900=
++//TODO Translate [Reference] 'Finalement, il commencera à produire du miel !'
+staxel.village.dialogue.job.BugCatcher.line:10001000=
++//TODO Translate [Reference] 'Les scarabés rhinocéroce sont les scarabées ultimes.'
+staxel.village.dialogue.job.BugCatcher.line:10001100=
++//TODO Translate [Reference] 'Ils sont si magnifiques qu'il n'y a pas photo!'
+staxel.village.dialogue.job.BugCatcher.line:10001200=
++//TODO Translate [Reference] 'J'adore passer la nuit dans les forêts.
+staxel.village.dialogue.job.BugCatcher.line:10001300=
++//TODO Translate [Reference] 'Parfois, on peut attraper un essaim de lucioles.'
+staxel.village.dialogue.job.BugCatcher.line:10001400=
++//TODO Translate [Reference] 'C'est plutôt dingue !'
+staxel.village.dialogue.job.BugCatcher.line:10001500=
++//TODO Translate [Reference] 'La collecte d'insectes peut être une très bonne source de revenus.'
+staxel.village.dialogue.job.BugCatcher.line:10001600=
++//TODO Translate [Reference] 'Certaines personnes sont vraiment dans la capture d'insectes rares!'
 staxel.village.dialogue.job.BugCatcher.line:10001700=
